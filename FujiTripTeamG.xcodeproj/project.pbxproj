@@ -13,6 +13,7 @@
 		A1AF5D602B16115B00130A24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1AF5D5E2B16115B00130A24 /* Main.storyboard */; };
 		A1AF5D622B16115D00130A24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1AF5D612B16115D00130A24 /* Assets.xcassets */; };
 		A1AF5D652B16115D00130A24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1AF5D632B16115D00130A24 /* LaunchScreen.storyboard */; };
+		A1AF5D6F2B173A9800130A24 /* RecomendTripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AF5D6E2B173A9800130A24 /* RecomendTripViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1AF5D612B16115D00130A24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1AF5D642B16115D00130A24 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1AF5D662B16115D00130A24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1AF5D6E2B173A9800130A24 /* RecomendTripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecomendTripViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A1AF5D582B16115B00130A24 /* AppDelegate.swift */,
 				A1AF5D5A2B16115B00130A24 /* SceneDelegate.swift */,
 				A1AF5D5C2B16115B00130A24 /* ViewController.swift */,
+				A1AF5D6E2B173A9800130A24 /* RecomendTripViewController.swift */,
 				A1AF5D5E2B16115B00130A24 /* Main.storyboard */,
 				A1AF5D612B16115D00130A24 /* Assets.xcassets */,
 				A1AF5D632B16115D00130A24 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1AF5D6F2B173A9800130A24 /* RecomendTripViewController.swift in Sources */,
 				A1AF5D5D2B16115B00130A24 /* ViewController.swift in Sources */,
 				A1AF5D592B16115B00130A24 /* AppDelegate.swift in Sources */,
 				A1AF5D5B2B16115B00130A24 /* SceneDelegate.swift in Sources */,
